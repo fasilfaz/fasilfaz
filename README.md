@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasilfazi&label=Profile%20views&color=0e75b6&style=flat" alt="fasilfazi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follower Count" /></a> </p>
 
 - 🌱 I’m currently learning **Software Testing, Next.js, Python**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://fasilfaz.github.io/fasilm/)
@@ -74,7 +73,9 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasilfazi&show_icons=true&locale=en&layout=compact&theme=radical" alt="fasilfazi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fasilfazi&show_icons=true&locale=en&theme=radical" alt="fasilfazi" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fasilfazi&theme=radical" alt="fasilfazi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fasilfazi&show_icons=true&locale=en&theme=radical" alt="fasilfazi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasilfazi&show_icons=true&locale=en&layout=compact&theme=radical" alt="fasilfazi" /></p>
+
 
