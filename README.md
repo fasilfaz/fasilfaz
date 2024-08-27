@@ -70,6 +70,10 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
