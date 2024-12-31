@@ -78,8 +78,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fasilfazi&theme=radical" alt="fasilfazi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fasilfazi&show_icons=true&locale=en&theme=radical" alt="fasilfazi" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasilfazi&show_icons=true&locale=en&layout=compact&theme=radical" alt="fasilfazi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fasilfaz&theme=radical" alt="fasilfazi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fasilfaz&show_icons=true&locale=en&theme=radical" alt="fasilfazi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasilfaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="fasilfazi" /></p>
 
 
