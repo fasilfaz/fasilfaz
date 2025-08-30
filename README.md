@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning **Software Testing, Next.js, Python**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://fasilfaz.github.io/fasilm/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://fasilm.vercel.app/)
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me **fasilm5171@gmail.com**
 - ⚡ Fun fact **I think I am funny**
