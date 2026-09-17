@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .w1{animation:wave 10s linear infinite}
+    .w2{animation:wave 16s linear infinite reverse}
+    @keyframes wave{from{transform:translateX(0)}to{transform:translateX(-1200px)}}
+  </style>
+  <g class="w2" opacity=".35">
+    <path d="M0 50 Q150 20 300 50 T600 50 T900 50 T1200 50 T1500 50 T1800 50 T2100 50 T2400 50 V130 H0Z" fill="url(#accent)"/>
+  </g>
+  <g class="w1">
+    <path d="M0 64 Q150 100 300 64 T600 64 T900 64 T1200 64 T1500 64 T1800 64 T2100 64 T2400 64 V130 H0Z" fill="url(#accent)"/>
+  </g>
+  <text x="600" y="112" text-anchor="middle" font-size="16" font-weight="600" fill="#ffffff">Thanks for visiting · fasilm.vercel.app</text>
+</svg>

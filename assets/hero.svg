@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Fasil M - Software Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b18"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <clipPath id="card"><rect width="1200" height="440" rx="28"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'JetBrains Mono',Consolas,'SF Mono',Menlo,'Courier New',monospace}
+    .blob{animation:float 14s ease-in-out infinite}
+    .b2{animation-duration:18s;animation-direction:reverse}
+    .b3{animation-duration:22s}
+    @keyframes float{0%,100%{transform:translate(0,0)}33%{transform:translate(60px,-40px)}66%{transform:translate(-40px,30px)}}
+    .in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
+    @keyframes in{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+    .d1{animation-delay:.1s}.d2{animation-delay:.25s}.d3{animation-delay:.4s}.d4{animation-delay:.55s}.d5{animation-delay:.7s}.d6{animation-delay:.85s}
+    .line{opacity:0;animation:show .35s ease-out forwards}
+    @keyframes show{to{opacity:1}}
+    .role{opacity:0;animation:role 15s infinite}
+    .r2{animation-delay:3s}.r3{animation-delay:6s}.r4{animation-delay:9s}.r5{animation-delay:12s}
+    @keyframes role{0%{opacity:0;transform:translateY(12px)}3%,17%{opacity:1;transform:translateY(0)}20%,100%{opacity:0;transform:translateY(-12px)}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-out infinite}
+    @keyframes pulse{0%{transform:scale(1);opacity:.8}100%{transform:scale(2.8);opacity:0}}
+    .caret{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .bob{animation:bob 6s ease-in-out infinite}
+    .bob2{animation-duration:5s;animation-delay:-2.5s}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="440" fill="url(#bg)"/>
+    <rect width="1200" height="440" fill="url(#grid)"/>
+    <g filter="url(#blur)" opacity=".55">
+      <circle class="blob" cx="980" cy="80" r="160" fill="#a855f7"/>
+      <circle class="blob b2" cx="760" cy="430" r="150" fill="#22d3ee"/>
+      <circle class="blob b3" cx="120" cy="30" r="120" fill="#ec4899" opacity=".6"/>
+    </g>
+
+    <!-- Left: intro -->
+    <g class="in d1">
+      <rect x="80" y="64" width="292" height="36" rx="18" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".12"/>
+      <circle class="pulse" cx="102" cy="82" r="5" fill="#22c55e"/>
+      <circle cx="102" cy="82" r="5" fill="#22c55e"/>
+      <text x="118" y="87" font-size="15" fill="#cbd5e1">Available for freelance projects</text>
+    </g>
+    <g class="in d2"><text x="80" y="158" font-size="26" fill="#94a3b8">Hi there, I'm</text></g>
+    <g class="in d3"><text x="76" y="234" font-size="80" font-weight="800" letter-spacing="-1" fill="url(#accent)">Fasil M</text></g>
+    <g class="in d4"><text x="80" y="280" font-size="24" font-weight="600" fill="#e2e8f0">Software Developer <tspan font-weight="400" fill="#64748b">· India</tspan></text></g>
+    <g class="in d5">
+      <text class="mono" x="80" y="326" font-size="22" fill="#22d3ee">&gt;</text>
+      <text class="mono" x="104" y="326" font-size="22" fill="#94a3b8">building</text>
+      <text class="mono role" x="226" y="326" font-size="22" font-weight="700" fill="#f8fafc">mobile apps</text>
+      <text class="mono role r2" x="226" y="326" font-size="22" font-weight="700" fill="#f8fafc">web apps</text>
+      <text class="mono role r3" x="226" y="326" font-size="22" font-weight="700" fill="#f8fafc">AI agents with n8n</text>
+      <text class="mono role r4" x="226" y="326" font-size="22" font-weight="700" fill="#f8fafc">multi-language apps</text>
+      <text class="mono role r5" x="226" y="326" font-size="22" font-weight="700" fill="#f8fafc">full stack products</text>
+    </g>
+    <g class="in d6" font-size="14" fill="#e2e8f0">
+      <rect x="80" y="360" width="124" height="32" rx="16" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+      <text x="142" y="381" text-anchor="middle">React Native</text>
+      <rect x="214" y="360" width="84" height="32" rx="16" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+      <text x="256" y="381" text-anchor="middle">Next.js</text>
+      <rect x="308" y="360" width="64" height="32" rx="16" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+      <text x="340" y="381" text-anchor="middle">MERN</text>
+      <rect x="382" y="360" width="84" height="32" rx="16" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+      <text x="424" y="381" text-anchor="middle">Angular</text>
+      <rect x="476" y="360" width="52" height="32" rx="16" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+      <text x="502" y="381" text-anchor="middle">n8n</text>
+      <rect x="538" y="360" width="60" height="32" rx="16" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+      <text x="568" y="381" text-anchor="middle">i18n</text>
+    </g>
+
+    <!-- Right: code window -->
+    <g transform="translate(680 62)">
+      <g class="bob">
+        <rect width="440" height="306" rx="18" fill="#0b1224" fill-opacity=".92" stroke="#ffffff" stroke-opacity=".1"/>
+        <path d="M18 0h404a18 18 0 0 1 18 18v26H0V18A18 18 0 0 1 18 0z" fill="#ffffff" fill-opacity=".04"/>
+        <circle cx="24" cy="22" r="6" fill="#ff5f57"/>
+        <circle cx="44" cy="22" r="6" fill="#febc2e"/>
+        <circle cx="64" cy="22" r="6" fill="#28c840"/>
+        <text class="mono" x="220" y="27" text-anchor="middle" font-size="13" fill="#64748b">developer.ts</text>
+
+        <text class="mono line" style="animation-delay:.9s" x="24" y="78" font-size="14" fill="#cbd5e1" xml:space="preserve"><tspan fill="#c084fc">const</tspan> <tspan fill="#22d3ee">developer</tspan> = {</text>
+        <text class="mono line" style="animation-delay:1.05s" x="24" y="102" font-size="14" fill="#cbd5e1" xml:space="preserve">  <tspan fill="#7dd3fc">name</tspan>: <tspan fill="#86efac">"Fasil M"</tspan>,</text>
+        <text class="mono line" style="animation-delay:1.2s" x="24" y="126" font-size="14" fill="#cbd5e1" xml:space="preserve">  <tspan fill="#7dd3fc">role</tspan>: <tspan fill="#86efac">"Software Developer"</tspan>,</text>
+        <text class="mono line" style="animation-delay:1.35s" x="24" y="150" font-size="14" fill="#cbd5e1" xml:space="preserve">  <tspan fill="#7dd3fc">mobile</tspan>: [<tspan fill="#86efac">"React Native"</tspan>, <tspan fill="#86efac">"Expo"</tspan>],</text>
+        <text class="mono line" style="animation-delay:1.5s" x="24" y="174" font-size="14" fill="#cbd5e1" xml:space="preserve">  <tspan fill="#7dd3fc">web</tspan>: [<tspan fill="#86efac">"Next.js"</tspan>, <tspan fill="#86efac">"MERN"</tspan>, <tspan fill="#86efac">"Angular"</tspan>],</text>
+        <text class="mono line" style="animation-delay:1.65s" x="24" y="198" font-size="14" fill="#cbd5e1" xml:space="preserve">  <tspan fill="#7dd3fc">data</tspan>: [<tspan fill="#86efac">"Supabase"</tspan>, <tspan fill="#86efac">"Firebase"</tspan>, <tspan fill="#86efac">"SQL"</tspan>],</text>
+        <text class="mono line" style="animation-delay:1.8s" x="24" y="222" font-size="14" fill="#cbd5e1" xml:space="preserve">  <tspan fill="#7dd3fc">ai</tspan>: [<tspan fill="#86efac">"n8n Agents"</tspan>, <tspan fill="#86efac">"Automation"</tspan>],</text>
+        <text class="mono line" style="animation-delay:1.95s" x="24" y="246" font-size="14" fill="#cbd5e1" xml:space="preserve">  <tspan fill="#7dd3fc">i18n</tspan>: <tspan fill="#f472b6">true</tspan>,</text>
+        <g class="line" style="animation-delay:2.1s">
+          <text class="mono" x="24" y="270" font-size="14" fill="#cbd5e1">};</text>
+          <rect class="caret" x="48" y="257" width="8" height="17" fill="#22d3ee"/>
+        </g>
+      </g>
+    </g>
+
+    <!-- Floating badges -->
+    <g transform="translate(1006 34)">
+      <g class="bob bob2">
+        <rect width="156" height="40" rx="12" fill="#111827" stroke="url(#accent)" stroke-width="1.5"/>
+        <circle cx="20" cy="20" r="5" fill="#ec4899"/>
+        <text x="34" y="25" font-size="14" font-weight="600" fill="#f8fafc">n8n AI Agents</text>
+      </g>
+    </g>
+    <g transform="translate(626 344)">
+      <g class="bob">
+        <rect width="164" height="40" rx="12" fill="#111827" stroke="url(#accent)" stroke-width="1.5"/>
+        <circle cx="20" cy="20" r="5" fill="#22d3ee"/>
+        <text x="34" y="25" font-size="14" font-weight="600" fill="#f8fafc">i18n · RTL ready</text>
+      </g>
+    </g>
+
+    <rect y="436" width="1200" height="4" fill="url(#accent)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="439" rx="28" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Have a project in mind? Let's talk">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+    <clipPath id="card"><rect width="1200" height="260" rx="24"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .blob{animation:float 12s ease-in-out infinite}
+    .b2{animation-direction:reverse;animation-duration:16s}
+    @keyframes float{0%,100%{transform:translate(0,0)}50%{transform:translate(80px,-20px)}}
+    .ring{transform-box:fill-box;transform-origin:center;animation:ring 2.4s ease-out infinite}
+    @keyframes ring{0%{transform:scale(1);opacity:.7}100%{transform:scale(1.25,1.6);opacity:0}}
+    .arrow{animation:nudge 1.4s ease-in-out infinite}
+    @keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(6px)}}
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="260" fill="#0b1020"/>
+    <g filter="url(#blur)" opacity=".5">
+      <circle class="blob" cx="220" cy="240" r="140" fill="#22d3ee"/>
+      <circle class="blob b2" cx="1000" cy="20" r="150" fill="#ec4899"/>
+      <circle cx="600" cy="260" r="120" fill="#a855f7"/>
+    </g>
+    <text x="600" y="92" text-anchor="middle" font-size="40" font-weight="800" fill="#f8fafc">Have a project in mind?</text>
+    <text x="600" y="130" text-anchor="middle" font-size="18" fill="#94a3b8">Mobile app, web app, AI automation or a multi-language product. Let's build it together.</text>
+    <rect class="ring" x="480" y="160" width="240" height="54" rx="27" fill="none" stroke="#a855f7" stroke-width="2"/>
+    <rect x="480" y="160" width="240" height="54" rx="27" fill="url(#accent)"/>
+    <text x="586" y="193" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">Let's Talk</text>
+    <text class="arrow" x="652" y="193" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">→</text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="259" rx="24" fill="none" stroke="url(#accent)" stroke-opacity=".5"/>
+</svg>

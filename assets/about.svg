@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="About Fasil M">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="1">
+      <stop offset="0" stop-color="#a855f7" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'JetBrains Mono',Consolas,'SF Mono',Menlo,'Courier New',monospace}
+    .in{opacity:0;animation:in .8s cubic-bezier(.2,.8,.2,1) forwards}
+    @keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    .d1{animation-delay:.1s}.d2{animation-delay:.3s}.d3{animation-delay:.45s}.d4{animation-delay:.6s}.d5{animation-delay:.75s}
+    .tile{transition:none;animation:lift 4s ease-in-out infinite}
+    .t2{animation-delay:-1s}.t3{animation-delay:-2s}.t4{animation-delay:-3s}
+    @keyframes lift{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+    .arrow{animation:nudge 1.6s ease-in-out infinite}
+    @keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+  </style>
+
+  <rect width="1200" height="300" rx="24" fill="#0f172a"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="1199" height="299" rx="24" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+
+  <g class="in d1"><text class="mono" x="48" y="54" font-size="14" fill="#64748b">~/fasil/about.md</text></g>
+  <g class="in d2" font-size="19" fill="#cbd5e1">
+    <text x="48" y="100">I'm a <tspan fill="#f8fafc" font-weight="700">Software Developer</tspan> from India who turns ideas into</text>
+    <text x="48" y="132">polished mobile and web products. I work across the full stack,</text>
+    <text x="48" y="164">from clean, responsive UIs in React Native, Next.js and Angular</text>
+    <text x="48" y="196">to APIs, databases and AI-powered automation with n8n.</text>
+  </g>
+  <g class="in d3">
+    <text class="mono" x="48" y="252" font-size="15" fill="#22d3ee">Currently exploring</text>
+    <text class="mono arrow" x="232" y="252" font-size="15" fill="#a855f7">→</text>
+    <text class="mono" x="258" y="252" font-size="15" fill="#e2e8f0">Software Testing · Python</text>
+  </g>
+
+  <g transform="translate(740 46)"><g class="in d2"><g class="tile">
+    <rect width="200" height="100" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".1"/>
+    <text x="20" y="50" font-size="30" font-weight="800" fill="url(#accent)">Mobile</text>
+    <text x="20" y="76" font-size="14" fill="#94a3b8">iOS &amp; Android</text>
+  </g></g></g>
+  <g transform="translate(956 46)"><g class="in d3"><g class="tile t2">
+    <rect width="200" height="100" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".1"/>
+    <text x="20" y="50" font-size="30" font-weight="800" fill="url(#accent)">Web</text>
+    <text x="20" y="76" font-size="14" fill="#94a3b8">Next.js · MERN · Angular</text>
+  </g></g></g>
+  <g transform="translate(740 162)"><g class="in d4"><g class="tile t3">
+    <rect width="200" height="100" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".1"/>
+    <text x="20" y="50" font-size="30" font-weight="800" fill="url(#accent)">AI</text>
+    <text x="20" y="76" font-size="14" fill="#94a3b8">n8n Agents &amp; Workflows</text>
+  </g></g></g>
+  <g transform="translate(956 162)"><g class="in d5"><g class="tile t4">
+    <rect width="200" height="100" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".1"/>
+    <text x="20" y="50" font-size="30" font-weight="800" fill="url(#accent)">i18n</text>
+    <text x="20" y="76" font-size="14" fill="#94a3b8">Multi-language &amp; RTL</text>
+  </g></g></g>
+</svg>
