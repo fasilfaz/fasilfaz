@@ -1,88 +1,116 @@
-<img align="center" alt="Coding" width="full" src="https://res.cloudinary.com/dfc0pmcn0/image/upload/v1735625353/gp5iue3utzdmvvrwvtea.gif">
-<h1 align="center">Hi 👋, I'm Fasil M</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
+<!-- ============ HEADER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%20👋,%20I'm%20Fasil%20M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20•%20Mobile%20%26%20Web%20Apps%20•%20AI%20Automation&descSize=18&descAlignY=58" alt="Header" />
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fasilfazi&label=Profile%20views&color=0e75b6&style=flat" alt="fasilfazi" /> </p>
-
-
-- 🌱 I’m currently learning **Software Testing, Next.js, Python**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://fasilm.vercel.app/)
-- 💬 Ask me about **MERN Stack**
-- 📫 How to reach me **fasilm5171@gmail.com**
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/fasil-m" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
-  </a>
-  <a href="mailto:fasilm5171@gmail.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
+<p align="center">
+  <a href="https://fasilm.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F70000&center=true&vCenter=true&width=640&lines=Full+Stack+Software+Developer+from+India+🇮🇳;Mobile+Apps+with+React+Native+📱;Web+Apps+with+Next.js%2C+MERN+%26+Angular+🌐;n8n+AI+Agents+%26+Workflow+Automation+🤖;i18n+Multi-language+Apps+🌍" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fasilfaz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://fasilm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fasilm.vercel.app-FE428E?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Projects-success?style=flat" alt="Open to work" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fasilfaz&theme=radical" alt="fasilfaz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fasilfaz&show_icons=true&locale=en&theme=radical" alt="fasilfazi" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasilfaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="fasilfazi" /></p>
+## 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
+- 🚀 **Software Developer** building production-ready **mobile & web applications**
+- 📱 Cross-platform mobile apps with **React Native**
+- 🌐 Scalable web apps with **Next.js, MERN Stack & Angular**
+- 🤖 **AI agents & automation workflows** with **n8n**
+- 🌍 **i18n** — multi-language, RTL-ready applications
+- 🌱 Currently exploring **Software Testing** and **Python**
+- 💼 See my work at **[My Portfolio](https://fasilm.vercel.app/)**
+- 📫 Reach me at **fasilm5171@gmail.com**
+- ⚡ Fun fact: **I think I am funny** 😄
+
+<br clear="right" />
+
+---
+
+## 🛠️ Services
+
+| Service | What I deliver |
+| :-- | :-- |
+| 📱 **Mobile App Development** | iOS & Android apps with React Native — auth, push notifications, offline support, store release |
+| 🌐 **Web App Development** | Fast, SEO-friendly apps & dashboards with Next.js, React, Angular and Node.js |
+| 🤖 **n8n AI Agents & Automation** | AI agents, chatbots and workflow automation connecting your APIs, CRMs and databases |
+| 🌍 **i18n / Multi-language** | Localization, RTL layouts (Arabic, etc.) and translation workflows for web & mobile |
+| 🗄️ **Backend & APIs** | REST & GraphQL APIs, Firebase / Supabase backends, SQL & NoSQL database design |
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,redux,materialui,bootstrap&perline=11" alt="Frontend" />
+  <br/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next" />
+</p>
+
+**Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,firebase,supabase,mongodb,postgres,mysql&perline=11" alt="Backend" />
+</p>
+
+**AI, Automation & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,cpp&perline=11" alt="Tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fasilfaz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasilfaz&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fasilfaz&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fasilfaz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fasilfaz&theme=redical&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+<!-- Snake animation: needs .github/workflows/snake.yml in this repo (see below) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fasilfaz/fasilfaz/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/fasilfaz/fasilfaz/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/fasil-m" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fasilm5171@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://fasilm.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/fasilfaz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" alt="Footer" />
+</p>
