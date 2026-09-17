@@ -1,116 +1,100 @@
-<!-- ============ HEADER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%20👋,%20I'm%20Fasil%20M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20•%20Mobile%20%26%20Web%20Apps%20•%20AI%20Automation&descSize=18&descAlignY=58" alt="Header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://fasilm.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F70000&center=true&vCenter=true&width=640&lines=Full+Stack+Software+Developer+from+India+🇮🇳;Mobile+Apps+with+React+Native+📱;Web+Apps+with+Next.js%2C+MERN+%26+Angular+🌐;n8n+AI+Agents+%26+Workflow+Automation+🤖;i18n+Multi-language+Apps+🌍" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://fasilm.vercel.app/">
+  <img src="./assets/hero.svg" width="100%" alt="Fasil M – Software Developer" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fasilfaz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://fasilm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fasilm.vercel.app-FE428E?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Projects-success?style=flat" alt="Open to work" />
-</p>
+<br/><br/>
 
----
+<!-- Navbar -->
+<a href="#about"><img src="https://img.shields.io/badge/About-0f172a?style=for-the-badge" alt="About" /></a>
+<a href="#services"><img src="https://img.shields.io/badge/Services-0f172a?style=for-the-badge" alt="Services" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Tech_Stack-0f172a?style=for-the-badge" alt="Tech Stack" /></a>
+<a href="#stats"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge" alt="GitHub" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Hire_Me-a855f7?style=for-the-badge" alt="Hire Me" /></a>
 
-## 👨‍💻 About Me
+<br/><br/>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img src="https://komarev.com/ghpvc/?username=fasilfaz&label=Profile%20views&color=a855f7&style=flat-square" alt="Profile views" />
 
-- 🚀 **Software Developer** building production-ready **mobile & web applications**
-- 📱 Cross-platform mobile apps with **React Native**
-- 🌐 Scalable web apps with **Next.js, MERN Stack & Angular**
-- 🤖 **AI agents & automation workflows** with **n8n**
-- 🌍 **i18n** — multi-language, RTL-ready applications
-- 🌱 Currently exploring **Software Testing** and **Python**
-- 💼 See my work at **[My Portfolio](https://fasilm.vercel.app/)**
-- 📫 Reach me at **fasilm5171@gmail.com**
-- ⚡ Fun fact: **I think I am funny** 😄
+</div>
 
-<br clear="right" />
+<br/>
 
----
+<!-- ============ 01 ABOUT ============ -->
+<a id="about"></a>
+<img src="./assets/title-about.svg" width="100%" alt="Who I Am" />
+<img src="./assets/about.svg" width="100%" alt="I'm a Software Developer from India building mobile apps, web apps, n8n AI agents and multi-language (i18n) products." />
 
-## 🛠️ Services
+<br/><br/>
 
-| Service | What I deliver |
-| :-- | :-- |
-| 📱 **Mobile App Development** | iOS & Android apps with React Native — auth, push notifications, offline support, store release |
-| 🌐 **Web App Development** | Fast, SEO-friendly apps & dashboards with Next.js, React, Angular and Node.js |
-| 🤖 **n8n AI Agents & Automation** | AI agents, chatbots and workflow automation connecting your APIs, CRMs and databases |
-| 🌍 **i18n / Multi-language** | Localization, RTL layouts (Arabic, etc.) and translation workflows for web & mobile |
-| 🗄️ **Backend & APIs** | REST & GraphQL APIs, Firebase / Supabase backends, SQL & NoSQL database design |
+<!-- ============ 02 SERVICES ============ -->
+<a id="services"></a>
+<img src="./assets/title-services.svg" width="100%" alt="What I Build" />
+<img src="./assets/services.svg" width="100%" alt="Services: Mobile App Development, Web App Development, n8n AI Agents, i18n Multi-language, Backend & APIs, Databases & Cloud" />
 
----
+<br/><br/>
 
-## 🧰 Tech Stack
+<!-- ============ 03 TECH STACK ============ -->
+<a id="stack"></a>
+<img src="./assets/title-stack.svg" width="100%" alt="Tools I Work With" />
 
-**Frontend & Mobile**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,redux,materialui,bootstrap&perline=11" alt="Frontend" />
-  <br/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next" />
-</p>
+<div align="center">
 
-**Backend & Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,firebase,supabase,mongodb,postgres,mysql&perline=11" alt="Backend" />
-</p>
+**📱 Mobile & Frontend**
 
-**AI, Automation & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,cpp&perline=11" alt="Tools" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,redux,materialui,bootstrap&perline=11" alt="Frontend" />
 
----
+<img src="https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-0f172a?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/i18next-0f172a?style=for-the-badge&logo=i18next&logoColor=26A69A" alt="i18next" />
 
-## 📊 GitHub Stats
+**🗄️ Backend & Databases**
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fasilfaz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasilfaz&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,firebase,supabase,mongodb,postgres,mysql&perline=11" alt="Backend and databases" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fasilfaz&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
+**🤖 AI, Automation & Tools**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fasilfaz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
-</p>
+<img src="https://img.shields.io/badge/n8n-0f172a?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+<img src="https://img.shields.io/badge/AI_Agents-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fasilfaz&theme=redical&hide_border=true&area=true" alt="Contribution graph" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode&perline=11" alt="Tools" />
 
-<!-- Snake animation: needs .github/workflows/snake.yml in this repo (see below) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fasilfaz/fasilfaz/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/fasilfaz/fasilfaz/output/github-snake.svg" />
-  </picture>
-</p>
+</div>
 
----
+<br/>
 
-## 🤝 Connect With Me
+<!-- ============ 04 GITHUB ============ -->
+<a id="stats"></a>
+<img src="./assets/title-stats.svg" width="100%" alt="Code Activity" />
+<img src="./assets/generated/stats.svg" width="100%" alt="GitHub stats" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/fasil-m" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fasilm5171@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://fasilm.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/fasilfaz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" alt="Footer" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fasilfaz/fasilfaz/output/github-snake-dark.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/fasilfaz/fasilfaz/output/github-snake.svg" />
+</picture>
+
+<br/><br/>
+
+<!-- ============ 05 CONTACT ============ -->
+<a id="contact"></a>
+<img src="./assets/title-contact.svg" width="100%" alt="Let's Work Together" />
+
+<a href="mailto:fasilm5171@gmail.com">
+  <img src="./assets/cta.svg" width="100%" alt="Have a project in mind? Let's talk" />
+</a>
+
+<div align="center">
+<br/>
+
+<a href="https://linkedin.com/in/fasil-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:fasilm5171@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://fasilm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+</div>
+
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
